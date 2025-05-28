@@ -98,7 +98,7 @@ lessons = [
             "rus": "Microsoft Word нужен для создания, редактирования и форматирования текста",
             "eng": "Microsoft Word is used to create, edit, and format text"
         },
-        "video_url": "https://backendlast-1.onrender.com/videos/darsWord-1.mp4"
+        "video_url": "https://backend-s1qc.onrender.com/videos/darsWord-1.mp4"
     },
     {
         "id": 2,
@@ -127,7 +127,7 @@ lessons = [
             "rus": "Главный раздел — это главная страница любого сайта или программы (то есть начальная точка). Этот раздел знакомит пользователя с сайтом или программой.",
             "eng": "The main section is the homepage of any website or application (that is, the starting point). This section introduces the user to the website or application."
         },
-        "video_url": "https://backendlast-1.onrender.com/videos/darsWord-2.mp4"
+        "video_url": "https://backend-s1qc.onrender.com/videos/darsWord-2.mp4"
     },
     {
         "id": 3,
@@ -156,7 +156,7 @@ lessons = [
             "rus": "В разделе «Вставка» мы узнаем, как добавлять в документ изображения, таблицы, диаграммы, фигуры, текстовые поля, номера страниц, заголовки, формулы и ссылки. Этот раздел поможет сделать документ красивым и понятным.",
             "eng": "In the 'Insert' section, we will learn how to add images, tables, charts, shapes, text boxes, page numbers, headings, formulas, and links to a document. This section will help you make your document beautiful and understandable."
         },
-        "video_url": "https://backendlast-1.onrender.com/videos/darsWord-3.mp4"
+        "video_url": "https://backend-s1qc.onrender.com/videos/darsWord-3.mp4"
     },
     {
         "id": 4,
@@ -185,7 +185,7 @@ lessons = [
             "rus": "Таблицы необходимы для точного расположения слов в тексте. Они облегчают размещение текста в правильном порядке вдоль строк. Например, это полезно для создания таблиц или организации списков.",
             "eng": "Tables are used to precisely position words in text. They make it easier to arrange text in the correct order on lines. For example, they are useful when creating tables or organizing lists."
         },
-        "video_url": "https://backendlast-1.onrender.com/videos/darsWord-4.mp4"
+        "video_url": "https://backend-s1qc.onrender.com/videos/darsWord-4.mp4"
     },
     {
         "id": 5,
@@ -214,7 +214,7 @@ lessons = [
             "rus": "Вкладка 'Дизайн' – используется для добавления фона, цвета, рамки и темы в документ. Вкладка 'Разметка страницы' (или 'Макет') – используется для настройки размера страницы, полей, ориентации и колонок. Вкладка 'Вид' – используется для изменения способа отображения документа (например: разметка страницы, веб-документ) и для показа или скрытия сетки и линеек.",
             "eng": "Design tab: Used to add background, color, borders, and themes to the document. Layout tab: Used to set page size, margins, orientation, and columns. View tab: Used to change how the document is displayed (e.g., Print Layout, Web Layout) and to show or hide gridlines and rulers."
         },
-        "video_url": "https://backendlast-1.onrender.com/videos/darsWord-5.mp4"
+        "video_url": "https://backend-s1qc.onrender.com/videos/darsWord-5.mp4"
     },
     {
         "id": 6,
@@ -243,7 +243,7 @@ lessons = [
             "rus": "Обеспечивает быстрый и лёгкий переход к другим документам, веб-сайтам или местам внутри документа. Делает текст интерактивным. Упрощает связывание и поиск информации.",
             "eng": "Enables quick and easy navigation to other documents, websites, or places within the document. Makes the text interactive. Simplifies linking and searching for information."
         },
-        "video_url": "https://backendlast-1.onrender.com/videos/darsWord-6.mp4"
+        "video_url": "https://backend-s1qc.onrender.com/videos/darsWord-6.mp4"
     },
     {
         "id": 7,
@@ -272,7 +272,7 @@ lessons = [
             "rus": "Защита документа от изменений или удаления, сохранение конфиденциальной или важной информации и предоставление пользователям возможности просматривать документ только в режиме чтения.",
             "eng": "Protecting the document from changes or deletion, safeguarding confidential or important information, and allowing users to view the document in read-only mode."
         },
-        "video_url": "https://backendlast-1.onrender.com/videos/darsWord-7.mp4"
+        "video_url": "https://backend-s1qc.onrender.com/videos/darsWord-7.mp4"
     },
     {
         "id": 8,
@@ -296,7 +296,7 @@ lessons = [
             "rus": "Это программа, предназначенная для ввода, сортировки, анализа данных и выполнения расчетов в табличной форме.",
             "eng": "It is a program designed for entering, sorting, analyzing data, and performing calculations in a tabular format."
         },
-        "video_url": "https://backendlast-1.onrender.com/videos/darsExcel-1.mp4"
+        "video_url": "https://backend-s1qc.onrender.com/videos/darsExcel-1.mp4"
     },
     {
         "id": 9,
@@ -320,7 +320,7 @@ lessons = [
             "rus": "В Excel при работе с таблицами данные вводятся, сортируются, фильтруются, производятся вычисления с помощью формул и анализируются с помощью диаграмм.",
             "eng": "In Excel, when working with tables, data is entered, sorted, filtered, calculated using formulas, and analyzed using charts."
         },
-        "video_url": "https://backendlast-1.onrender.com/videos/darsExcel-2.mp4"
+        "video_url": "https://backend-s1qc.onrender.com/videos/darsExcel-2.mp4"
     }
 ]
 
