@@ -11,7 +11,7 @@ import os
 from email.mime.text import MIMEText
 
 app = FastAPI()
-app.mount("/videos", StaticFiles(directory="videos"), name="videos")
+# app.mount("/videos", StaticFiles(directory="videos"), name="videos")
 
 @app.get("/")
 def read_root():
