@@ -56,7 +56,7 @@ class RegisterInput(BaseModel):
     password: str
 
 class VerifyInput(BaseModel):
-    code: str
+    code: str   
 
 class Comment(BaseModel):
     name: Optional[str] = None
@@ -395,7 +395,7 @@ async def upload_avatar(email: str = Form(...), image: UploadFile = File(...)):
     filename = f"avatars/{email.replace('@', '_')}.png"
     with open(filename, "wb") as buffer:
         shutil.copyfileobj(image.file, buffer)
-    file_url = f"https://backendlast-1.onrender.com/avatars/{email.replace('@', '_')}.png"
+    file_url = f"https://backend-s1qc.onrender.com/avatars/{email.replace('@', '_')}.png"
     return {"message": "Rasm saqlandi", "image": file_url}
 
 @app.post("/lessons/{lesson_id}/comments")
