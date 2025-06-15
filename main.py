@@ -98,7 +98,7 @@ lessons = [
             "rus": "Microsoft Word нужен для создания, редактирования и форматирования текста",
             "eng": "Microsoft Word is used to create, edit, and format text"
         },
-"video_url": "https://drive.google.com/file/d/1AkggGSaGDm14cIjPrp_vSPQVvMixhQLO/preview"
+"video_url": "https://drive.google.com/file/d/1geTDL1maspPxwppJmFniGXwI38R-H1Kv/preview"
 
     },
     {   
