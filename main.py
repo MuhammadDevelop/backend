@@ -98,40 +98,12 @@ lessons = [
             "rus": "Microsoft Word нужен для создания, редактирования и форматирования текста",
             "eng": "Microsoft Word is used to create, edit, and format text"
         },
-"video_url": "https://drive.google.com/file/d/1geTDL1maspPxwppJmFniGXwI38R-H1Kv/preview"
+       
+"video_url": " https://drive.google.com/file/d/1xF1lYv-jG3Ibo1z2ksKDgmXowUIOc56V/preview"
 
     },
-    {   
+  {
         "id": 2,
-        "category": {
-            "uz": "Word darslari",
-            "rus": "Уроки Word",
-            "eng": "Word lessons"
-        },
-        "title": {
-            "uz": "Fayl va Gavnaya bo'limi bilan ishlash",
-            "rus": "Работа с файлами и главной страницей",
-            "eng": "Working with files and the homepage"
-        },
-        "description": {
-            "uz": "Gavnaya bo'limi haqida.",
-            "rus": "О разделе главной.",
-            "eng": "About the Insert homepage."
-        },
-        "subtitle": {
-            "uz": "Gavnaya bo'limi bizga nima uchun kerak?",
-            "rus": "Зачем нам нужен раздел Вставка?",
-            "eng": "Why do we need the Insert section?"
-        },
-        "answer": {
-            "uz": "Gavnaya bo‘lim — bu har qanday sayt yoki dasturda asosiy sahifa (ya’ni boshlang‘ich joy). Bu bo‘lim foydalanuvchini dastur yoki sayt bilan tanishtiradi.",
-            "rus": "Главный раздел — это главная страница любого сайта или программы (то есть начальная точка). Этот раздел знакомит пользователя с сайтом или программой.",
-            "eng": "The main section is the homepage of any website or application (that is, the starting point). This section introduces the user to the website or application."
-        },
-        "video_url": "https://www.youtube.com/embed/Z9KrYaTM5wA?si=hamjUhSLtcS-1hQ-&rel=0&modestbranding=1&iv_load_policy=3&controls=1&loop=0" 
-    },
-    {
-        "id": 3,
         "category": {
             "uz": "Word darslari",
             "rus": "Уроки Word",
@@ -157,27 +129,28 @@ lessons = [
             "rus": "В разделе «Вставка» мы узнаем, как добавлять в документ изображения, таблицы, диаграммы, фигуры, текстовые поля, номера страниц, заголовки, формулы и ссылки. Этот раздел поможет сделать документ красивым и понятным.",
             "eng": "In the 'Insert' section, we will learn how to add images, tables, charts, shapes, text boxes, page numbers, headings, formulas, and links to a document. This section will help you make your document beautiful and understandable."
         },
-        "video_url": "https://www.youtube.com/embed/jzmt2lpyKIY?si=bmTTZugcGq88ocBt&rel=0&modestbranding=1&iv_load_policy=3&controls=1&loop=0"
+             "video_url": "https://drive.google.com/file/d/1zcA_MvsLv9tgWgFxDymmYksIOeArSCH5/preview"
+
     },
     {
-        "id": 4,
+        "id": 3,
         "category": {
             "uz": "Word darslari",
             "rus": "Уроки Word",
             "eng": "Word lessons"
         },
         "title": {
-            "uz": "Vstavka bo'limida Tablitsa bilan ishlash",
+            "uz": "Maket Dizayn bo'limlari xaqida",
             "rus": "Работа с таблицами в разделе «Вставка»",
             "eng": "Working with Tables in the Insert section"
         },
         "description": {
-            "uz": "Tablitsiyalar bilan to'liq ishlash.",
+            "uz": "Maket Dizayn bo'limlari bilan ishlash",
             "rus": "Полная работа с вкладками.",
             "eng": "Full work with tabs."
         },
         "subtitle": {
-            "uz": "Bizga Tablitsiyalar nima uchun kerak?",
+            "uz": "Bizga Maket Dizayn bo'limlari nima uchun kerak?",
             "rus": "Зачем нам нужны Таблицы?",
             "eng": "Why do we need Tables?"
         },
@@ -186,10 +159,10 @@ lessons = [
             "rus": "Таблицы необходимы для точного расположения слов в тексте. Они облегчают размещение текста в правильном порядке вдоль строк. Например, это полезно для создания таблиц или организации списков.",
             "eng": "Tables are used to precisely position words in text. They make it easier to arrange text in the correct order on lines. For example, they are useful when creating tables or organizing lists."
         },
-        "video_url": "https://www.youtube.com/embed/E00qRzmF5c8?si=5mv9mg46dynMYjhD&rel=0&modestbranding=1&iv_load_policy=3&controls=1&loop=0"
+        "video_url": "https://drive.google.com/file/d/1ycDTPAHXP1TzVy4IJcnjJk9xHuLKo1VB/preview"
     },
     {
-        "id": 5,
+        "id": 4,
         "category": {
             "uz": "Word darslari",
             "rus": "Уроки Word",
@@ -218,7 +191,7 @@ lessons = [
         "video_url": "https://www.youtube.com/embed/FSomOOePKWQ?si=tbtpUnOe5iqLa7bp&rel=0&modestbranding=1&iv_load_policy=3&controls=1&loop=0"
     },
     {
-        "id": 6,
+        "id": 5,
         "category": {
             "uz": "Word darslari",
             "rus": "Уроки Word",
